@@ -39,5 +39,3 @@ A web-based memory game inspired by the classic **Simon** arcade experience. The
 3. Open `index.html` in any modern web browser to play.
 
 ---
-
-Would you like me to fix the typo in your `index.html` file where line 21 says `lass="row"` instead of `class="row"` so your buttons align correctly?
